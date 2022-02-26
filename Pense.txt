@@ -1,0 +1,41 @@
+Arquivo-Fonte:
+
+Um arquivo de código-fonte contém classe. A classe representa a parte de um programa. A classe deve ficar dentro de um par de chaves.
+
+public class Dog{
+
+}
+
+Classe - possui um ou mais métodos.
+
+public class Dog {
+
+void bark () {
+
+}
+
+}
+
+Métodos - escreve as instruções de como deve ser executado, ou seja, um conjunto de instruções.
+
+public class Dog {
+
+void bark () {
+
+instrução1;
+
+instrução2;
+
+}
+
+}
+
+instruções
+
+Todo app Java precisará de pelo menos uma classe e um método main por app.
+
+Toda instrução deve terminar com ;
+
+O método main é onde o programa começará a ser executado.
+
+ 
